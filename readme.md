@@ -1,8 +1,8 @@
  <!--Texto com apresentação-->
  👋 Olá, eu sou a Carla Moema!
 
-- 🎲 Hoje trabalho com Banco de dados Oracle,  aplicações Totvs RM...
-- 📚 Estudando Data science, Power Bi, Python
+- 🎲 Hoje atuo como dba, gerente de projetos
+- 📚 Estudando Data science, Power Bi, Python, machine learning... 
 - 👩‍🦱 Pronouns: Ela
 
 <!--Card com status no Git hub-->
