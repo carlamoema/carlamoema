@@ -1,14 +1,10 @@
  <!--Texto com apresentação-->
  👋 Olá, eu sou a Carla Moema!
 
-- 🎲 Hoje atuo como dba, gerente de projetos
+- 🎲 Faço parte da Comunidade DS (DataScience) criada pelo Meigarom Lopes
 - 📚 Estudando Data science, Power Bi, Python, machine learning... 
+- 👩‍💼  Hoje atuo como dba, gerente de projetos
 - 👩‍🦱 Pronouns: Ela
-
-<!--Card com status no Git hub-->
-<div>
- <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=carlamoema&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
 
 <!--Ícones das tecnologias que utilizo/conheço-->
 <div>
