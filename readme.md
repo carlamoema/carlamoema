@@ -1,7 +1,7 @@
  <!--Texto com apresentação-->
  👋 Olá, eu sou a Carla Moema!
 
-- 🎲 Faço parte da Comunidade MED Mulheres em Dados
+- ❤️ Faço parte da Comunidade MED Mulheres em Dados
 - 🎲 Faço parte da Comunidade DS (DataScience) criada pelo Meigarom Lopes
 - 📚 Estou sempre me atualizando nas áreas de Data science (algoritmos supervisionados e não supervisionados), Data Analytics e DataViz 
 - 👩‍💼 Também tenho experiencia como gerente de projetos e dba
@@ -9,9 +9,9 @@
 
 <!--Ícones das tecnologias que utilizo/conheço-->
 <div>
- <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="margin-right: 20px;"      /> <!---PYTHON--->
- <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />  <!---ORACLE--->
- <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> <!---SQL SERVER-->
+ <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"   style="margin-right: 20px" /> <!---PYTHON--->
+ <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"  style="margin-right: 20px" />  <!---ORACLE--->
+ <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"  style="margin-right: 20px" /> <!---SQL SERVER-->
 </div>
 
 <!--Ícones+Atalhos para Linkedin e Gmail-->
