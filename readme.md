@@ -1,10 +1,11 @@
  <!--Texto com apresentação-->
  👋 Olá, eu sou a Carla Moema!
 
+- 🎲 Faço parte da Comunidade MED Mulheres em Dados
 - 🎲 Faço parte da Comunidade DS (DataScience) criada pelo Meigarom Lopes
-- 📚 Estudando Data science, Power Bi, Python, machine learning... 
-- 👩‍💼  Hoje atuo como dba, gerente de projetos
-- 👩‍🦱 Pronouns: Ela
+- 📚 Estou sempre me atualizando nas áreas de Data science (algoritmos supervisionados e não supervisionados), Data Analytics e DataViz 
+- 👩‍💼 Também tenho experiencia como gerente de projetos e dba
+- 👩‍🦱 Pronouns: Ela/Dela/She/Her
 
 <!--Ícones das tecnologias que utilizo/conheço-->
 <div>
