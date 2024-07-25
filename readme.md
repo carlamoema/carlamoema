@@ -9,8 +9,8 @@
 
 <!--Ícones das tecnologias que utilizo/conheço-->
 <div>
- <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <!--PYTHON-->
- <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />  <!--ORACLE-->
+ <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <!--PYTHON--->
+ <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />  <!--ORACLE--->
  <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> <!--SQL SERVER-->
 </div>
 
